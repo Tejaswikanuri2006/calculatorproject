@@ -1,2 +1,2 @@
-# calculatorproject
-mini project to learn github features
+# Calculator Project
+This is a basic calculator built using HTML, CSS, and JavaScript.
